@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SH-Job_Detail/static/css/main.f77eb1b7.chunk.css",
-    "main.js": "/SH-Job_Detail/static/js/main.cac8c74b.chunk.js",
-    "main.js.map": "/SH-Job_Detail/static/js/main.cac8c74b.chunk.js.map",
+    "main.js": "/SH-Job_Detail/static/js/main.d8b13910.chunk.js",
+    "main.js.map": "/SH-Job_Detail/static/js/main.d8b13910.chunk.js.map",
     "runtime-main.js": "/SH-Job_Detail/static/js/runtime-main.da0d1890.js",
     "runtime-main.js.map": "/SH-Job_Detail/static/js/runtime-main.da0d1890.js.map",
     "static/js/2.7d547f6d.chunk.js": "/SH-Job_Detail/static/js/2.7d547f6d.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.da0d1890.js",
     "static/js/2.7d547f6d.chunk.js",
     "static/css/main.f77eb1b7.chunk.css",
-    "static/js/main.cac8c74b.chunk.js"
+    "static/js/main.d8b13910.chunk.js"
   ]
 }
